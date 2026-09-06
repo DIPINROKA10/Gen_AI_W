@@ -1,68 +1,98 @@
 <div align="center">
 
-<!-- Animated header banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Generative%20AI&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Assignments%20%26%20Coursework&descAlignY=60&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,7,12,18&height=220&text=Gen%20AI%20Studio&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Where%20Machines%20Learn%20to%20Imagine&descAlignY=75&descSize=16&fontAlignY=35)
 
-<!-- Animated typing text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Exploring+Generative+AI+%F0%9F%A4%96;GANs+%7C+VAEs+%7C+Transformers;Learning+how+machines+create+%E2%9C%A8)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&pause=1500&color=FF61D8&background=00000000&center=true&vCenter=true&width=700&lines=%22Give+a+machine+enough+data%2C+it+starts+dreaming%22;GANs+%C2%B7+VAEs+%C2%B7+Diffusion+%C2%B7+Transformers;Every+Assignment+is+an+Experiment+in+Creativity" alt="Typing SVG" />
 
-<!-- Badges -->
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+<br><br>
+
+<img src="https://img.shields.io/badge/Model-Generative-FF61D8?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Framework-PyTorch-EE4C2C?style=for-the-badge&labelColor=1a1a2e&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&labelColor=1a1a2e&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Evolving-00F7FF?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
 
----
+<br>
 
-## 📖 About
+## 🪐 The Idea
 
-This repository is a curated collection of my **assignments, experiments, and projects** completed as part of my **Generative AI** coursework. It covers concepts ranging from foundational neural networks to modern generative architectures like **GANs**, **VAEs**, and **Transformer-based models**.
+> *Somewhere between a dataset and a dream, a model learns to create something that never existed before.*
 
-> *"Exploring the frontier of machine creativity — one model at a time."* 🎨🧠
+This repository is my creative lab for **Generative AI** — a space where I don't just study algorithms, but teach machines to **paint, write, imagine, and generate**. Each assignment here is less of a "task" and more of an experiment: *what happens when a network learns the shape of creativity itself?*
 
----
+<br>
 
-## 🧩 Topics Covered
+## 🧬 The Building Blocks
 
-**Foundations**
-- 🔹 Neural Networks & Deep Learning Basics
-- 🔹 CNNs, RNNs & LSTMs
-- 🔹 Autoencoders
-- 🔹 Probability & Latent Space Representations
+<table>
+<tr>
+<td width="50%">
 
-**Generative Architectures**
-- 🔹 Generative Adversarial Networks (GANs)
-- 🔹 Variational Autoencoders (VAEs)
-- 🔹 Diffusion Models (DDPM, Stable Diffusion)
-- 🔹 Autoregressive Models (PixelRNN/CNN)
-- 🔹 Flow-based Generative Models (Normalizing Flows)
+### 🧠 Understand
+Learn how models *perceive* patterns —
+from neural nets to attention mechanisms
+that let AI "focus" like we do.
 
-**Language & Transformers**
-- 🔹 Transformer Architecture & Attention Mechanism
-- 🔹 Large Language Models (LLMs)
-- 🔹 BERT, GPT & Encoder-Decoder Models
-- 🔹 Fine-tuning & Transfer Learning
-- 🔹 Tokenization & Embeddings
+</td>
+<td width="50%">
 
-**Applied GenAI**
-- 🔹 Prompt Engineering
-- 🔹 Retrieval-Augmented Generation (RAG)
-- 🔹 Multimodal Models (Text-to-Image, Text-to-Video)
-- 🔹 LangChain & AI Agents
-- 🔹 Fine-tuning with LoRA / PEFT
-- 🔹 Model Evaluation Metrics (FID, BLEU, Perplexity)
+### 🎨 Generate
+Explore how models *create* —
+GANs that imagine, VAEs that dream in
+latent space, diffusion models that
+paint from noise.
 
-**Ethics & Deployment**
-- 🔹 Responsible AI & Bias in Generative Models
-- 🔹 Hallucination & Model Limitations
-- 🔹 Model Deployment (APIs, Streamlit, Gradio)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### 🗣️ Converse
+Dive into LLMs & Transformers —
+how machines learn language, context,
+and meaning well enough to *respond*.
+
+</td>
+<td width="50%">
+
+### ⚖️ Reflect
+Question what we build —
+bias, hallucination, and the ethics
+of machines that create.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🔮 Concepts Explored
+
+```
+Foundations        → Neural Nets · CNNs · RNNs · Autoencoders
+Generative Models   → GANs · VAEs · Diffusion Models · Normalizing Flows
+Language & LLMs     → Transformers · Attention · GPT/BERT · Fine-tuning
+Applied GenAI       → Prompt Engineering · RAG · LangChain · Multimodal AI
+Ethics & Deployment → Responsible AI · Bias · Hallucination · Streamlit/Gradio
+```
+
+<br>
+
+## 🌌 Philosophy
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+*Every model here starts as noise —*
+*and somewhere in the training loop,*
+*it learns to make sense.*
+
+</div>
+
+<br>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,7,12,18&height=150&section=footer)
 
 </div>
